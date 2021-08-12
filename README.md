@@ -27,6 +27,9 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-dbandrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dbandrade/)](https://www.linkedin.com/in/dbandrade/)
 [![Gmail Badge](https://img.shields.io/badge/-dba12@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dba12@hotmail.com)](mailto:dba12@hotmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-dougbandrade-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dougbandrade/)](https://www.instagram.com/dougbandrade/)
+[![Instagram Badge](https://img.shields.io/badge/-dougbandrade-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dougbandrade/)](https://www.instagram.com/dougbandrade/)<br>
+<br>
+<br>
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="SEUUSUARIO" />
  
  
